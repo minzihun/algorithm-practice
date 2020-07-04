@@ -1,3 +1,5 @@
+a=[9,5,8,5,2,1]
+
 def merge_sort(arr):
     def sort(low, high):
         if high - low < 2:
@@ -30,3 +32,7 @@ def merge_sort(arr):
             arr[i] = temp[i - low]
 
     return sort(0, len(arr))
+
+print(a)
+merge_sort(a)
+print(a)
