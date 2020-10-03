@@ -10,7 +10,7 @@
 않아 IndexError: list assignment index out of range 메시지가 떳지만
 입력한 행만큼 리스트를 초기화 시켜 놓아 이를 해결 했다.
 '''
-
+# 내가 푼 코드
 n, m = map(int, input().split())
 arr = [0 for _ in range(n)]
 
@@ -23,7 +23,7 @@ print(result)
 '''
 책에나온 답안 2가지
 
-3-3) min() 함수를 이용하는 경우 3-3
+# 3-3 : min() 함수를 이용하는 경우 3-3
 n, m = map(int, input().split())
 result = 0
 
@@ -34,7 +34,7 @@ for i in range(n):
 
 print(result)
 
-3-4) 2중 반복문 구조를 이용하는 경우
+# 3-4 : 2중 반복문 구조를 이용하는 경우
 n, m = map(int, input().split())
 result = 0
 
