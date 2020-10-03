@@ -23,7 +23,7 @@ print(result)
 '''
 책에나온 답안 2가지
 
-- min() 함수를 이용하는 경우
+3-3) min() 함수를 이용하는 경우 3-3
 n, m = map(int, input().split())
 result = 0
 
@@ -34,7 +34,7 @@ for i in range(n):
 
 print(result)
 
-- 2중 반복문 구조를 이용하는 경우
+3-4) 2중 반복문 구조를 이용하는 경우
 n, m = map(int, input().split())
 result = 0
 
