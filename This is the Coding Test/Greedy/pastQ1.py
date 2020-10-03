@@ -31,7 +31,7 @@ print(result)
 
 '''
 해설지 풀이도 나랑 거의 비슷한데 구현 방법이 조금 다르다. 해설지가 더 좋은 듯!
-A01)
+# A01
 n = int(input())
 data = list(map(int, input().split()))
 data.sort()
