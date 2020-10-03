@@ -24,7 +24,7 @@ result += (n - 1)
 print(result)
 
 '''
-- 내가 푼 코드
+# 내가 푼 코드
 n, k = map(int, input().split())
 result = 0
 
