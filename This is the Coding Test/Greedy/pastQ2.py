@@ -18,7 +18,7 @@ result = 0 # 결과값은 0으로 초기화
 
 for i in range(len(n)): # 문자열 길이만큼 비교 맨 처음은 result랑 비교!
   if (int(arr[i]) <= 1) | (result == 0):
-   # i번째 원소가 1보다 작거나 같거나 result가 계속 초기화 값인 경우는
+  # i번째 원소가 1보다 작거나 같거나 result가 계속 초기화 값인 경우는
     result += int(arr[i]) # 더하기 해준다!
   else: # 그 경우가 아니면 곱해기 해준다.
     result *= int(arr[i])
