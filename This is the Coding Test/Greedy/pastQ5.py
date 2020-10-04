@@ -20,7 +20,6 @@ A가 특정 무게의 볼링공을 선택했을 때, 이어서 B가 볼링공을
 
 지금은 하나도 이해가 안되서 다시 풀어봐야 될 것 같다.
 '''
-
 # A05
 n, m = map(int, input().split())
 data = list(map(int, input().split))
