@@ -25,7 +25,7 @@ for i in s:
 print(string + str(total)) # 더한 숫자만 문자열로 변환한 뒤 문자끼리 더해 출력해준다.
 
 '''
-# A07
+# A08
 data = input()
 result = []
 value = 0
