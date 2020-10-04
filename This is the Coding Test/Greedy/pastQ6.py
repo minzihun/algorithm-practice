@@ -23,7 +23,6 @@ solution 함수를 완성하세요.
 이용하면 된다. 이를 위해 우선순위 큐를 이용하여 구현할 수 있는데 ,문제를 풀기 위해 고려해야 하는
 부분이 많아서 까다로울 수 있다. 자세한 설명은 해설지를 참고해야겠다...ㅇㅏㅏㅏ 봐도 이해가 안됭..
 '''
-
 # A06
 # https://programmers.co.kr/learn/courses/30/lessons/42891?language=python3
 import heapq
