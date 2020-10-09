@@ -13,7 +13,7 @@
 '''
 # 4-3
 input_data = input() # 현재 나이트의 위치 입력받기
-row = int(input_data[1]) # 숫자 데이터가 열이니깐 여기에 넣고
+row = int(input_data[1]) # 숫자 데이터가 행이니깐 여기에 넣고
 column = int(ord(input_data[0])) - int(ord('a')) + 1
 # 문자 데이터는 행인데 이걸 인덱스로 몇 번째인지로 넣고 싶어서
 # ord함수 이용해 아스키 코드로 바꾸고 항상 a를 빼주고 1을 더해서 a부터 1로 세지게 해준다.
