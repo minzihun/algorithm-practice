@@ -81,7 +81,7 @@ def simulate():
 print(simulate())
 
 '''
-지지 쳤어욤ㅠㅠ
+지지 쳤어욤ㅠㅠ 너무 어렵다.
 # 내가 푼 코드
 n = int(input())
 board = [[0] * n for _ in range(n)]
