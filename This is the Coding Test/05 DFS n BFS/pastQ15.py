@@ -45,4 +45,4 @@ for i in range(1, n + 1):
 
 # 만약 최단 거리가 K인 도시가 없다면, -1 출력
 if check == False:
-    print(-1)
+    print(-1)33
